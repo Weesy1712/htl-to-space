@@ -1,0 +1,85 @@
+{
+	"folders": [
+		{
+			"path": "C:\\Users\\karim\\Documents\\PlatformIO\\Projects\\DIC_Uebung_1"
+		},
+		{
+			"name": "sender",
+			"path": "D:\\Schule\\FOEX\\htl-to-space\\test\\test_ttn\\sender"
+		},
+		{
+			"name": "gateway",
+			"path": "D:\\Schule\\FOEX\\htl-to-space\\test\\test_ttn\\gateway"
+		},
+		{
+			"name": "hh",
+			"path": "C:\\Users\\karim\\Documents\\PlatformIO\\Projects\\hh"
+		},
+		{
+			"name": "fqw",
+			"path": "C:\\Users\\karim\\Documents\\PlatformIO\\Projects\\fqw"
+		},
+		{
+			"name": "Heltec_Test",
+			"path": "C:\\Users\\karim\\Documents\\PlatformIO\\Projects\\Heltec_Test"
+		},
+		{
+			"name": "Bluetooth Control",
+			"path": "C:\\Users\\karim\\Documents\\PlatformIO\\Projects\\Bluetooth Control"
+		},
+		{
+			"name": "DIC_Uebung_07.11.19",
+			"path": "C:\\Users\\karim\\Documents\\PlatformIO\\Projects\\DIC_Uebung_07.11.19"
+		},
+		{
+			"name": "DIC_Uebung2 ",
+			"path": "C:\\Users\\karim\\Documents\\PlatformIO\\Projects\\DIC_Uebung2 "
+		},
+		{
+			"name": "DIC_Uebung3",
+			"path": "C:\\Users\\karim\\Documents\\PlatformIO\\Projects\\DIC_Uebung3"
+		},
+		{
+			"name": "DIC_Labor_19.11.19",
+			"path": "C:\\Users\\karim\\Documents\\PlatformIO\\Projects\\DIC_Labor_19.11.19"
+		},
+		{
+			"name": "DIC_Labor_1.2",
+			"path": "C:\\Users\\karim\\Documents\\PlatformIO\\Projects\\DIC_Labor_1.2"
+		},
+		{
+			"name": "DIC_INPUT",
+			"path": "C:\\Users\\karim\\Documents\\PlatformIO\\Projects\\DIC_INPUT"
+		},
+		{
+			"name": "DIC_ADC",
+			"path": "C:\\Users\\karim\\Documents\\PlatformIO\\Projects\\DIC_ADC"
+		},
+		{
+			"name": "DIC_Labor_4",
+			"path": "C:\\Users\\karim\\Documents\\PlatformIO\\Projects\\DIC_Labor_4"
+		},
+		{
+			"name": "MKRSMS",
+			"path": "C:\\Users\\karim\\Documents\\PlatformIO\\Projects\\MKRSMS"
+		},
+		{
+			"name": "200114-091949-uno",
+			"path": "C:\\Users\\karim\\Documents\\PlatformIO\\Projects\\200114-091949-uno"
+		},
+		{
+			"name": "TempLabor14.1.2020",
+			"path": "C:\\Users\\karim\\Documents\\PlatformIO\\Projects\\TempLabor14.1.2020"
+		},
+		{
+			"name": "BMEtest",
+			"path": "C:\\Users\\karim\\Documents\\PlatformIO\\Projects\\BMEtest"
+		}
+	],
+	"settings": {
+		"terminal.integrated.env.windows": {
+			"PATH": "C:\\Users\\karim\\.platformio\\penv\\Scripts;C:\\Users\\karim\\.platformio\\penv;C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64_win\\compiler;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\Intel\\WiFi\\bin\\;C:\\Program Files\\Common Files\\Intel\\WirelessCommon\\;C:\\Users\\karim\\AppData\\Local\\Microsoft\\WindowsApps;;C:\\Users\\karim\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64_win\\compiler;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\Intel\\WiFi\\bin\\;C:\\Program Files\\Common Files\\Intel\\WirelessCommon\\;C:\\Users\\karim\\AppData\\Local\\Microsoft\\WindowsApps;;C:\\Users\\karim\\AppData\\Local\\Programs\\Microsoft VS Code\\bin",
+			"PLATFORMIO_CALLER": "vscode"
+		}
+	}
+}
